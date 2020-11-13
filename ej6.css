@@ -1,7 +1,7 @@
 #container{
-    height: 100%;
-    width: 100%;
     border: violet 1px solid;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 #header{
     height: 30%;
@@ -27,4 +27,19 @@
 ul#menu li{
     display: inline;
     padding-right: 0.5em;
+}
+#introduction{
+    height: 80%;
+    background-color: yellowgreen;
+}
+#leftsidebar{
+    float: left;
+}
+#rightsidebar{
+    float: right;
+}
+.footer{
+    text-align: center;
+    background-color: yellowgreen;
+    height: 10%;
 }
