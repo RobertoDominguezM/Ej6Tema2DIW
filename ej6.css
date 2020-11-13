@@ -1,0 +1,30 @@
+#container{
+    height: 100%;
+    width: 100%;
+    border: violet 1px solid;
+}
+#header{
+    height: 30%;
+    border: black 1px solid;
+}
+/*#brand{
+    float: left;
+    width: 48.5%;
+    height: 20%;
+    border: springgreen 1px solid;
+}
+#searchBox{
+    float: right;
+    width: 48.5%;
+    height: 20%;
+    border: red 1px solid;
+}*/
+#menu{
+    height: 30%;
+    width: 100%;
+    border: yellow 1px solid;
+}
+ul#menu li{
+    display: inline;
+    padding-right: 0.5em;
+}
